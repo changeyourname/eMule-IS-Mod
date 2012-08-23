@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xcatalog_app", "xcatalog\xcatalog_app.vcxproj", "{AAAF25BF-2B9B-3AD5-8114-A64FFF65D6E3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xcatalog_dll", "xcatalog\xcatalog_dll.vcxproj", "{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Template|Win32 = Template|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAAF25BF-2B9B-3AD5-8114-A64FFF65D6E3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AAAF25BF-2B9B-3AD5-8114-A64FFF65D6E3}.Debug|Win32.Build.0 = Debug|Win32
+		{AAAF25BF-2B9B-3AD5-8114-A64FFF65D6E3}.Release|Win32.ActiveCfg = Release|Win32
+		{AAAF25BF-2B9B-3AD5-8114-A64FFF65D6E3}.Release|Win32.Build.0 = Release|Win32
+		{AAAF25BF-2B9B-3AD5-8114-A64FFF65D6E3}.Template|Win32.ActiveCfg = Template|Win32
+		{AAAF25BF-2B9B-3AD5-8114-A64FFF65D6E3}.Template|Win32.Build.0 = Template|Win32
+		{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}.Debug|Win32.Build.0 = Debug|Win32
+		{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}.Release|Win32.ActiveCfg = Release|Win32
+		{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}.Release|Win32.Build.0 = Release|Win32
+		{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}.Template|Win32.ActiveCfg = Template|Win32
+		{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}.Template|Win32.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+start make_libs_debug.bat
+msbuild

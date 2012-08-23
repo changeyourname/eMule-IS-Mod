@@ -1,0 +1,35 @@
+﻿[OK]
+OK
+
+[Cancel]
+Отмена
+
+[IP[:port], one per line]
+IP[:порт], по одному в каждой строке
+
+[Default port %u applied if none specified]
+Порт по-умолчанию %u
+
+[Ask before installing new version]
+Спрашивать перед установкой новой версии
+
+[Update downloaded and will be installed at next startup]
+Обновление загружено и будет установлено при следующем запуске
+
+[Unable to download update (%s)]
+Не удалось загрузить обновление (%s)
+
+[Unable to check for update (%s)]
+Не удалось проверить наличие обновлений (%s)
+
+[Failed to save program update (%s)]
+Не удалось сохранить файл обновления на диске (%s)
+
+[Changes in new version:\n%s\n\nWould you like to apply this update?]
+Изменения в новой версии:\n%s\n\nХотите обновить программу?
+
+[New version available!]
+Доступна новая версия!
+
+[No new version detected]
+Новой версии не обнаружено

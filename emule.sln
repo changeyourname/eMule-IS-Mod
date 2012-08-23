@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "eMule", "srchybrid\emule.vcxproj", "{584EA69D-3443-4197-8994-364880FC1B9B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sct", "srclib\sct\sct.vcxproj", "{99B93B06-6444-4D15-8B70-760CEEF2B896}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sctupd", "sctupd\sctupd.vcxproj", "{FDB21358-67CB-4B0E-9914-B7A615B570BF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ru_RU", "srchybrid\lang\ru_RU.vcxproj", "{4AE4AB3A-FD80-4DFE-BF9B-AC845DCF2449}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xcatalog_dll", "xcatalog\xcatalog_dll.vcxproj", "{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		ReleaseSSE2|Win32 = ReleaseSSE2|Win32
+		Template|Win32 = Template|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{584EA69D-3443-4197-8994-364880FC1B9B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{584EA69D-3443-4197-8994-364880FC1B9B}.Debug|Win32.Build.0 = Debug|Win32
+		{584EA69D-3443-4197-8994-364880FC1B9B}.Release|Win32.ActiveCfg = Release|Win32
+		{584EA69D-3443-4197-8994-364880FC1B9B}.Release|Win32.Build.0 = Release|Win32
+		{584EA69D-3443-4197-8994-364880FC1B9B}.ReleaseSSE2|Win32.ActiveCfg = ReleaseSSE2|Win32
+		{584EA69D-3443-4197-8994-364880FC1B9B}.ReleaseSSE2|Win32.Build.0 = ReleaseSSE2|Win32
+		{584EA69D-3443-4197-8994-364880FC1B9B}.Template|Win32.ActiveCfg = Template|Win32
+		{584EA69D-3443-4197-8994-364880FC1B9B}.Template|Win32.Build.0 = Template|Win32
+		{99B93B06-6444-4D15-8B70-760CEEF2B896}.Debug|Win32.ActiveCfg = Debug|Win32
+		{99B93B06-6444-4D15-8B70-760CEEF2B896}.Debug|Win32.Build.0 = Debug|Win32
+		{99B93B06-6444-4D15-8B70-760CEEF2B896}.Release|Win32.ActiveCfg = Release|Win32
+		{99B93B06-6444-4D15-8B70-760CEEF2B896}.Release|Win32.Build.0 = Release|Win32
+		{99B93B06-6444-4D15-8B70-760CEEF2B896}.ReleaseSSE2|Win32.ActiveCfg = Release|Win32
+		{99B93B06-6444-4D15-8B70-760CEEF2B896}.ReleaseSSE2|Win32.Build.0 = Release|Win32
+		{99B93B06-6444-4D15-8B70-760CEEF2B896}.Template|Win32.ActiveCfg = Template|Win32
+		{99B93B06-6444-4D15-8B70-760CEEF2B896}.Template|Win32.Build.0 = Template|Win32
+		{FDB21358-67CB-4B0E-9914-B7A615B570BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FDB21358-67CB-4B0E-9914-B7A615B570BF}.Debug|Win32.Build.0 = Debug|Win32
+		{FDB21358-67CB-4B0E-9914-B7A615B570BF}.Release|Win32.ActiveCfg = Release|Win32
+		{FDB21358-67CB-4B0E-9914-B7A615B570BF}.Release|Win32.Build.0 = Release|Win32
+		{FDB21358-67CB-4B0E-9914-B7A615B570BF}.ReleaseSSE2|Win32.ActiveCfg = ReleaseSSE2|Win32
+		{FDB21358-67CB-4B0E-9914-B7A615B570BF}.ReleaseSSE2|Win32.Build.0 = ReleaseSSE2|Win32
+		{FDB21358-67CB-4B0E-9914-B7A615B570BF}.Template|Win32.ActiveCfg = ReleaseSSE2|Win32
+		{FDB21358-67CB-4B0E-9914-B7A615B570BF}.Template|Win32.Build.0 = ReleaseSSE2|Win32
+		{4AE4AB3A-FD80-4DFE-BF9B-AC845DCF2449}.Debug|Win32.ActiveCfg = Dynamic|Win32
+		{4AE4AB3A-FD80-4DFE-BF9B-AC845DCF2449}.Debug|Win32.Build.0 = Dynamic|Win32
+		{4AE4AB3A-FD80-4DFE-BF9B-AC845DCF2449}.Release|Win32.ActiveCfg = Dynamic|Win32
+		{4AE4AB3A-FD80-4DFE-BF9B-AC845DCF2449}.Release|Win32.Build.0 = Dynamic|Win32
+		{4AE4AB3A-FD80-4DFE-BF9B-AC845DCF2449}.ReleaseSSE2|Win32.ActiveCfg = Dynamic|Win32
+		{4AE4AB3A-FD80-4DFE-BF9B-AC845DCF2449}.ReleaseSSE2|Win32.Build.0 = Dynamic|Win32
+		{4AE4AB3A-FD80-4DFE-BF9B-AC845DCF2449}.Template|Win32.ActiveCfg = Dynamic|Win32
+		{4AE4AB3A-FD80-4DFE-BF9B-AC845DCF2449}.Template|Win32.Build.0 = Dynamic|Win32
+		{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}.Debug|Win32.Build.0 = Debug|Win32
+		{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}.Release|Win32.ActiveCfg = Release|Win32
+		{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}.Release|Win32.Build.0 = Release|Win32
+		{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}.ReleaseSSE2|Win32.ActiveCfg = Release|Win32
+		{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}.ReleaseSSE2|Win32.Build.0 = Release|Win32
+		{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}.Template|Win32.ActiveCfg = Template|Win32
+		{CBA6BA2C-DA18-32F3-A645-B83B20AD9DBF}.Template|Win32.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
